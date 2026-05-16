@@ -1,0 +1,51 @@
+merchant_id,merchant_name,merchant_category,city,risk_level
+1,Merchant 1,Fuel,Bangalore,Low
+2,Merchant 2,Travel,Bangalore,Low
+3,Merchant 3,Dining,Bangalore,Low
+4,Merchant 4,Electronics,Bangalore,Low
+5,Merchant 5,Groceries,Bangalore,Low
+6,Merchant 6,Fuel,Bangalore,Low
+7, amazon store ,Travel,Bangalore,Low
+8,Merchant 8,Dining,Bangalore,Low
+9,Merchant 9, groceries ,Bangalore,Low
+10,Merchant 10,Groceries,Bangalore,Low
+11,Merchant 11,Fuel,Bangalore,Low
+12,Merchant 12,Travel,Bangalore,Low
+13,Merchant 13,Dining,Bangalore,Low
+14, amazon store ,Electronics,Bangalore,Low
+15,Merchant 15,Groceries,Bangalore,Low
+16,Merchant 16,Fuel,Bangalore,Low
+17,Merchant 17,Travel,Bangalore,Low
+18,Merchant 18, groceries ,Bangalore,Low
+19,Merchant 19,Electronics,Bangalore,Low
+20,Merchant 20,Groceries,Bangalore,HIGH
+21, amazon store ,Fuel,Bangalore,Low
+22,Merchant 22,Travel,Bangalore,Low
+23,Merchant 23,Dining,Bangalore,Low
+24,Merchant 24,Electronics,Bangalore,Low
+25,Merchant 25,Groceries,Bangalore,Low
+26,Merchant 26,Fuel,Bangalore,Low
+27,Merchant 27, groceries ,Bangalore,Low
+28, amazon store ,Dining,Bangalore,Low
+29,Merchant 29,Electronics,Bangalore,Low
+30,Merchant 30,Groceries,Bangalore,Low
+31,Merchant 31,Fuel,Bangalore,Low
+32,Merchant 32,Travel,Bangalore,Low
+33,Merchant 33,Dining,Bangalore,Low
+34,Merchant 34,Electronics,Bangalore,Low
+35, amazon store ,Groceries,Bangalore,Low
+36,Merchant 36, groceries ,Bangalore,Low
+37,Merchant 37,Travel,Bangalore,Low
+38,Merchant 38,Dining,Bangalore,Low
+39,Merchant 39,Electronics,Bangalore,Low
+40,Merchant 40,Groceries,Bangalore,HIGH
+41,Merchant 41,Fuel,Bangalore,Low
+42, amazon store ,Travel,Bangalore,Low
+43,Merchant 43,Dining,Bangalore,Low
+44,Merchant 44,Electronics,Bangalore,Low
+45,Merchant 45, groceries ,Bangalore,Low
+46,Merchant 46,Fuel,Bangalore,Low
+47,Merchant 47,Travel,Bangalore,Low
+48,Merchant 48,Dining,Bangalore,Low
+49, amazon store ,Electronics,Bangalore,Low
+50,Merchant 50,Groceries,Bangalore,Low
