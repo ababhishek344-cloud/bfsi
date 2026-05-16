@@ -1,0 +1,201 @@
+transaction_id,customer_id,card_id,merchant_id,transaction_date,posting_date,amount,currency,transaction_type,channel,status,emi_flag,reward_points,bill_cycle_month,payment_due_date,payment_status,min_due,total_due,fraud_flag,remarks
+201,3,202,2,2025-01-06,,278.89,INR,Purchase,Online,SUCCESS,,201,2025-10,2025-02-16,paid,124.12,1146.73,N,incremental autoloader credit card transaction file
+202,4,203,3,2025-02-07,wrong_date,279.78,INR,Purchase,Online,SUCCESS,,202,2025-11,2025-03-17,paid,124.24,1147.46,N,incremental autoloader credit card transaction file
+203,5,204,4,,2025-02-10,280.67,INR,Purchase,Online,SUCCESS,,203,2025-12,2025-01-18,paid,124.36,1148.19,N,incremental autoloader credit card transaction file
+204,6,205,5,wrong_date,2025-03-11,abc,INR, purchase ,Online,SUCCESS,,204,2025-01,2025-02-19,paid,124.48,1148.92,N,incremental autoloader credit card transaction file
+205,7,206,6,2025-02-10,2025/02/25,282.45,INR,Purchase,Online,SUCCESS,,205,2025-02,2025-03-20,paid,124.6,1149.65,N,incremental autoloader credit card transaction file
+206,8,207,7,2025-03-11,2025-02-13,283.34,INR,Purchase,Online,SUCCESS,,206,2025-03,2025-01-21,paid,124.72,1150.38,N,incremental autoloader credit card transaction file
+207,9,208,8,2025/02/25,25-02-2025,284.23,INR,Purchase,Online,,,207,2025-04,2025-02-22,paid,124.84,1151.11,N,incremental autoloader credit card transaction file
+208,10,209,9,2025-02-13,2025-01-15,"2,500",,Purchase,Online,SUCCESS,Y,abc,2025-05,2025-03-23,OVERDUE,124.96,,N,incremental autoloader credit card transaction file
+209,11,210,10,25-02-2025,2025-02-16,$700,INR,Purchase,Online,SUCCESS,,209,2025-06,2025-01-24,paid,125.08,1152.57,N,incremental autoloader credit card transaction file
+210,12,211,11,2025-01-15,2025-03-17,286.9, inr ,Purchase, mobile app ,SUCCESS,N,210,Jan-2025,2025-02-25,paid,invalid,1153.3,N,incremental autoloader credit card transaction file
+211,13,212,12,2025-02-16,2025-01-18,287.79,INR,Purchase,Online,SUCCESS,,211,2025-08,wrong_date,paid,125.32,1154.03,N,incremental autoloader credit card transaction file
+212,14,213,13,2025-03-17,2025-02-19,288.68,INR,Purchase,Online,SUCCESS,,212,2025-09,2025-01-27,paid,125.44,1154.76,N,incremental autoloader credit card transaction file
+213,15,214,14,2025-01-18,2025-03-20,289.57,INR,Purchase,Online,SUCCESS,,213,2025-10,2025-02-28,paid,125.56,1155.49,N,incremental autoloader credit card transaction file
+214,16,215,15,2025-02-19,2025-01-21,290.46,INR,Purchase,Online,SUCCESS,,214,2025-11,2025-03-01,paid,125.68,1156.22,N,incremental autoloader credit card transaction file
+215,17,216,16,2025-03-20,2025-02-22,291.35,INR,Purchase,Online,SUCCESS,,215,2025-12,2025-01-02,paid,125.8,1156.95,N,incremental autoloader credit card transaction file
+216,18,217,17,2025-01-21,2025-03-23,292.24,INR, purchase ,,failed,,,2025-01,2025-02-03,,,"₹5,000",N,incremental autoloader credit card transaction file
+217,19,218,18,2025-02-22,2025-01-24,293.13,INR,Purchase,Online,SUCCESS,,217,2025-02,2025-03-04,paid,126.04,1158.41,N,incremental autoloader credit card transaction file
+218,20,219,19,2025-03-23,2025-02-25,294.02,INR,Purchase,Online,SUCCESS,,218,2025-03,25-02-2025,paid,126.16,1159.14,N,incremental autoloader credit card transaction file
+219,21,220,20,2025-01-24,wrong_date,294.91,INR,Purchase,Online,SUCCESS,,219,2025-04,2025-02-06,paid,126.28,1159.87,N,incremental autoloader credit card transaction file
+220,22,221,21,2025-02-25,2025-01-27,$700, inr ,,POS,SUCCESS,,220,2025-05,2025/02/25,paid,126.4,1160.6,N,incremental autoloader credit card transaction file
+221,23,222,22,wrong_date,2025-02-28,"2,500",INR,Purchase,Online,SUCCESS,Y,221,2025-06,2025-01-08,paid,126.52,1161.33,N,incremental autoloader credit card transaction file
+222,24,223,23,2025-01-27,2025-03-01,297.58,INR,Purchase,Online,SUCCESS,,222,2025-07,,paid,126.64,1162.06,N,incremental autoloader credit card transaction file
+223,25,224,24,2025-02-28,2025-01-02,298.47,INR,Purchase,Online,SUCCESS,,223,2025-08,2025-03-10,paid,126.76,1162.79,N,incremental autoloader credit card transaction file
+224,26,225,25,2025-03-01,2025-02-03,299.36,USD,Purchase,Online,SUCCESS,N,224,,2025-01-11,OVERDUE,₹500,1163.52,N,incremental autoloader credit card transaction file
+225,27,226,26,2025-01-02,2025-03-04,300.25,INR,Purchase, mobile app ,,,100 points,2025-10,2025-02-12,paid,127.0,wrong,N,incremental autoloader credit card transaction file
+226,28,227,27,2025-02-03,25-02-2025,301.14,INR,Purchase,Online,SUCCESS,,226,2025-11,2025-03-13,paid,127.12,1164.98,N,incremental autoloader credit card transaction file
+227,29,228,28,2025-03-04,2025-02-06,302.03,INR,Purchase,Online,SUCCESS,,227,2025-12,2025-01-14,paid,127.24,1165.71,N,incremental autoloader credit card transaction file
+228,30,229,29,25-02-2025,2025/02/25,,INR, purchase ,Online,SUCCESS,,228,2025-01,wrong_date,paid,127.36,1166.44,N,incremental autoloader credit card transaction file
+229,31,230,30,2025-02-06,2025-01-08,303.81,INR,Purchase,Online,SUCCESS,,229,2025-02,2025-03-16,paid,127.48,1167.17,N,incremental autoloader credit card transaction file
+230,32,231,31,2025/02/25,,304.7, inr ,Purchase,Online,SUCCESS,,230,2025-03,2025-01-17,paid,127.6,1167.9,N,incremental autoloader credit card transaction file
+231,33,232,32,2025-01-08,2025-03-10,$700,INR,Purchase,Online,SUCCESS,yes,231,2025-04,2025-02-18,paid,127.72,1168.63,N,incremental autoloader credit card transaction file
+232,34,233,33,,2025-01-11,306.48,INR,Purchase,Online,SUCCESS,,232,2025-05,2025-03-19,,127.84,1169.36,N,incremental autoloader credit card transaction file
+233,35,234,34,2025-03-10,2025-02-12,307.37,INR,Purchase,Online,SUCCESS,,233,2025-06,2025-01-20,paid,127.96,1170.09,N,incremental autoloader credit card transaction file
+234,36,235,35,2025-01-11,2025-03-13,"2,500",INR,REFUND,Online,,Y,abc,2025-07,2025-02-21,paid,128.08,,N,incremental autoloader credit card transaction file
+235,37,236,36,2025-02-12,2025-01-14,309.15,INR,Purchase,Online,SUCCESS,,235,2025-08,2025-03-22,paid,128.2,1171.55,N,incremental autoloader credit card transaction file
+236,38,237,37,2025-03-13,wrong_date,310.04,INR,Purchase,Online,SUCCESS,,236,2025-09,2025-01-23,paid,128.32,1172.28,N,incremental autoloader credit card transaction file
+237,39,238,38,2025-01-14,2025-03-16,310.93,INR,Purchase,Online,SUCCESS,,237,2025-10,25-02-2025,paid,128.44,1173.01,N,incremental autoloader credit card transaction file
+238,40,239,39,wrong_date,2025-01-17,abc,USD,Purchase,Online,SUCCESS,N,238,2025-11,2025-03-25,paid,128.56,1173.74,N,incremental autoloader credit card transaction file
+239,41,240,40,2025-03-16,2025-02-18,312.71,INR,Purchase,Online,SUCCESS,,239,2025-12,2025-01-26,paid,128.68,1174.47,N,incremental autoloader credit card transaction file
+240,42,241,41,2025-01-17,2025-03-19,313.6, inr , purchase , mobile app ,SUCCESS,,240,Jan-2025,2025-02-27,OVERDUE,128.8,"₹5,000",N,incremental autoloader credit card transaction file
+241,43,242,42,2025-02-18,2025-01-20,314.49,INR,Purchase,Online,SUCCESS,,241,2025-02,2025-03-28,paid,128.92,1175.93,N,incremental autoloader credit card transaction file
+242,44,243,43,2025-03-19,2025-02-21,$700,INR,,Online,SUCCESS,,242,2025-03,2025-01-01,paid,129.04,1176.66,N,incremental autoloader credit card transaction file
+243,45,244,44,2025-01-20,2025-03-22,316.27,INR,Purchase,Online,failed,,,2025-04,2025/02/25,paid,129.16,1177.39,N,incremental autoloader credit card transaction file
+244,46,245,45,2025-02-21,2025-01-23,317.16,INR,Purchase,Online,SUCCESS,,244,2025-05,2025-03-03,paid,129.28,1178.12,N,incremental autoloader credit card transaction file
+245,47,246,46,2025-03-22,25-02-2025,318.05,INR,Purchase,Online,SUCCESS,,245,2025-06,wrong_date,paid,invalid,1178.85,N,incremental autoloader credit card transaction file
+246,48,247,47,2025-01-23,2025-03-25,318.94,INR,Purchase,Online,SUCCESS,,246,2025-07,2025-02-05,paid,129.52,1179.58,N,incremental autoloader credit card transaction file
+247,49,248,48,25-02-2025,2025-01-26,"2,500",INR,Purchase,Online,SUCCESS,Y,247,2025-08,2025-03-06,paid,129.64,1180.31,N,incremental autoloader credit card transaction file
+248,50,249,49,2025-03-25,2025-02-27,320.72,INR,Purchase,Online,SUCCESS,,248,2025-02,2025-01-07,,129.76,1181.04,N,incremental autoloader credit card transaction file
+249,51,250,50,2025-01-26,2025-03-28,321.61,INR,Purchase,Online,SUCCESS,,249,2025-10,2025-02-08,paid,129.88,1181.77,N,incremental autoloader credit card transaction file
+250,52,251,1,2025-02-27,2025-01-01,322.5, inr ,Purchase,Online,SUCCESS,,100 points,2025-11,2025-03-09,paid,130.0,wrong,Y,incremental autoloader credit card transaction file
+251,53,252,2,2025-03-28,2025/02/25,323.39,INR,Purchase,Online,SUCCESS,,251,2025-12,,paid,130.12,1183.23,N,incremental autoloader credit card transaction file
+252,54,253,3,2025-01-01,2025-03-03,324.28,USD, purchase ,Online,,N,252,2025-01,2025-02-11,paid,₹500,1183.96,N,incremental autoloader credit card transaction file
+253,55,254,4,2025/02/25,wrong_date,$700,INR,Purchase,Online,SUCCESS,,253,2025-02,2025-03-12,paid,130.36,1184.69,N,incremental autoloader credit card transaction file
+254,56,255,5,2025-03-03,2025-02-05,326.06,INR,Purchase,Online,SUCCESS,,254,2025-03,2025-01-13,paid,130.48,1185.42,N,incremental autoloader credit card transaction file
+255,57,256,6,wrong_date,2025-03-06,abc,INR,Purchase, mobile app ,SUCCESS,,255,2025-04,2025-02-14,paid,130.6,1186.15,N,incremental autoloader credit card transaction file
+256,58,257,7,2025-02-05,2025-01-07,327.84,,Purchase,Online,SUCCESS,,256,,25-02-2025,OVERDUE,130.72,1186.88,N,incremental autoloader credit card transaction file
+257,59,258,8,2025-03-06,2025-02-08,328.73,INR,Purchase,Online,SUCCESS,,257,2025-06,2025-01-16,paid,130.84,1187.61,N,incremental autoloader credit card transaction file
+258,60,259,9,2025-01-07,2025-03-09,329.62,INR,Purchase,Online,SUCCESS,,258,2025-07,2025-02-17,paid,130.96,1188.34,N,incremental autoloader credit card transaction file
+259,61,260,10,2025-02-08,,330.51,INR,Purchase,Online,SUCCESS,,259,2025-08,2025-03-18,paid,131.08,1189.07,N,incremental autoloader credit card transaction file
+260,62,261,11,2025-03-09,2025-02-11,"2,500", inr ,Purchase,POS,SUCCESS,Y,abc,2025-09,2025-01-19,paid,131.2,,N,incremental autoloader credit card transaction file
+261,63,262,12,,2025-03-12,332.29,INR,Purchase,Online,,,261,2025-10,2025-02-20,paid,131.32,1190.53,N,incremental autoloader credit card transaction file
+262,64,263,13,2025-02-11,2025-01-13,333.18,INR,Purchase,Online,SUCCESS,,262,2025-11,wrong_date,paid,131.44,1191.26,N,incremental autoloader credit card transaction file
+263,65,264,14,2025-03-12,2025-02-14,334.07,INR,Purchase,Online,SUCCESS,,263,2025-12,2025-01-22,paid,131.56,1191.99,N,incremental autoloader credit card transaction file
+264,66,265,15,2025-01-13,25-02-2025,$700,INR, purchase ,,SUCCESS,,264,2025-01,2025-02-23,,131.68,"₹5,000",N,incremental autoloader credit card transaction file
+265,67,266,16,2025-02-14,2025-01-16,335.85,INR,Purchase,Online,SUCCESS,,265,2025-02,2025-03-24,paid,131.8,1193.45,N,incremental autoloader credit card transaction file
+266,68,267,17,25-02-2025,2025-02-17,,USD,Purchase,Online,SUCCESS,N,266,2025-03,2025/02/25,paid,131.92,1194.18,N,incremental autoloader credit card transaction file
+267,69,268,18,2025-01-16,2025-03-18,337.63,INR,Purchase,Online,SUCCESS,,267,2025-04,2025-02-26,paid,132.04,1194.91,N,incremental autoloader credit card transaction file
+268,70,269,19,2025-02-17,2025-01-19,338.52,INR,Purchase,Online,SUCCESS,,268,2025-05,2025-03-27,paid,132.16,1195.64,N,incremental autoloader credit card transaction file
+269,71,270,20,2025-03-18,2025-02-20,339.41,INR,Purchase,Online,SUCCESS,,269,2025-06,2025-01-28,paid,132.28,1196.37,N,incremental autoloader credit card transaction file
+270,72,271,21,2025-01-19,wrong_date,340.3, inr ,REFUND, mobile app ,failed,,,Jan-2025,2025-02-01,paid,132.4,1197.1,N,incremental autoloader credit card transaction file
+271,73,272,22,2025-02-20,2025-01-22,341.19,INR,Purchase,Online,SUCCESS,,271,2025-08,2025-03-02,paid,132.52,1197.83,N,incremental autoloader credit card transaction file
+272,74,273,23,wrong_date,2025-02-23,abc,,Purchase,Online,SUCCESS,,272,2025-09,2025-01-03,OVERDUE,132.64,1198.56,N,incremental autoloader credit card transaction file
+273,75,274,24,2025-01-22,2025-03-24,"2,500",INR,Purchase,Online,SUCCESS,Y,273,2025-10,2025-02-04,paid,132.76,1199.29,N,incremental autoloader credit card transaction file
+274,76,275,25,2025-02-23,2025/02/25,343.86,INR,Purchase,Online,SUCCESS,,274,2025-11,2025-03-05,paid,132.88,1200.02,N,incremental autoloader credit card transaction file
+275,77,276,26,2025-03-24,2025-02-26,$700,INR,Purchase,Online,SUCCESS,,100 points,2025-12,25-02-2025,paid,133.0,wrong,N,incremental autoloader credit card transaction file
+276,78,277,27,2025/02/25,2025-03-27,345.64,INR, purchase ,Online,SUCCESS,,276,2025-01,2025-02-07,paid,133.12,1201.48,N,incremental autoloader credit card transaction file
+277,79,278,28,2025-02-26,2025-01-28,346.53,INR,Purchase,Online,SUCCESS,,277,2025-02,2025-03-08,paid,133.24,1202.21,N,incremental autoloader credit card transaction file
+278,80,279,29,2025-03-27,2025-02-01,347.42,INR,Purchase,Online,SUCCESS,,278,2025-03,2025-01-09,paid,133.36,1202.94,N,incremental autoloader credit card transaction file
+279,81,280,30,2025-01-28,2025-03-02,348.31,INR,Purchase,Online,,,279,2025-02,wrong_date,paid,133.48,1203.67,N,incremental autoloader credit card transaction file
+280,82,281,31,2025-02-01,2025-01-03,349.2, inr ,Purchase,POS,SUCCESS,N,280,2025-05,,,₹500,1204.4,N,incremental autoloader credit card transaction file
+281,83,282,32,2025-03-02,2025-02-04,350.09,INR,Purchase,Online,SUCCESS,,281,2025-06,2025-01-12,paid,133.72,1205.13,N,incremental autoloader credit card transaction file
+282,84,283,33,2025-01-03,2025-03-05,350.98,INR,Purchase,Online,SUCCESS,,282,2025-07,2025-02-13,paid,133.84,1205.86,N,incremental autoloader credit card transaction file
+283,85,284,34,2025-02-04,25-02-2025,351.87,INR,Purchase,Online,SUCCESS,,283,2025-08,2025-03-14,paid,133.96,1206.59,N,incremental autoloader credit card transaction file
+284,86,285,35,2025-03-05,2025-02-07,352.76,INR,Purchase,Online,SUCCESS,,284,2025-09,2025-01-15,paid,134.08,1207.32,N,incremental autoloader credit card transaction file
+285,87,286,36,25-02-2025,2025-03-08,,INR,Purchase, mobile app ,SUCCESS,,285,2025-10,2025-02-16,paid,134.2,1208.05,N,incremental autoloader credit card transaction file
+286,88,287,37,2025-02-07,2025-01-09,$700,INR,,Online,SUCCESS,Y,abc,2025-11,2025-03-17,paid,134.32,,N,incremental autoloader credit card transaction file
+287,89,288,38,2025-03-08,wrong_date,355.43,INR,Purchase,Online,SUCCESS,,287,2025-12,2025-01-18,paid,134.44,1209.51,N,incremental autoloader credit card transaction file
+288,90,289,39,2025-01-09,,356.32,, purchase ,,,,288,,2025-02-19,OVERDUE,,"₹5,000",N,incremental autoloader credit card transaction file
+289,91,290,40,wrong_date,2025-01-12,abc,INR,Purchase,Online,SUCCESS,,289,2025-02,2025/02/25,paid,134.68,1210.97,N,incremental autoloader credit card transaction file
+290,92,291,41,,2025-02-13,358.1, inr ,Purchase,Online,SUCCESS,,290,2025-03,2025-01-21,paid,134.8,1211.7,N,incremental autoloader credit card transaction file
+291,93,292,42,2025-01-12,2025-03-14,358.99,INR,Purchase,Online,SUCCESS,,291,2025-04,2025-02-22,paid,134.92,1212.43,N,incremental autoloader credit card transaction file
+292,94,293,43,2025-02-13,2025-01-15,359.88,INR,Purchase,Online,SUCCESS,,292,2025-05,2025-03-23,paid,135.04,1213.16,N,incremental autoloader credit card transaction file
+293,95,294,44,2025-03-14,2025-02-16,360.77,INR,Purchase,Online,SUCCESS,,293,2025-06,2025-01-24,paid,135.16,1213.89,N,incremental autoloader credit card transaction file
+294,96,295,45,2025-01-15,2025-03-17,361.66,USD,Purchase,Online,SUCCESS,N,294,2025-07,25-02-2025,paid,135.28,1214.62,N,incremental autoloader credit card transaction file
+295,97,296,46,2025-02-16,2025-01-18,362.55,INR,Purchase,Online,SUCCESS,,295,2025-08,2025-03-26,paid,135.4,1215.35,N,incremental autoloader credit card transaction file
+296,98,297,47,2025-03-17,2025-02-19,363.44,INR,Purchase,Online,SUCCESS,,296,2025-09,wrong_date,,135.52,1216.08,N,incremental autoloader credit card transaction file
+297,99,298,48,2025-01-18,2025/02/25,$700,INR,Purchase,Online,failed,,,2025-10,2025-02-28,paid,135.64,1216.81,N,incremental autoloader credit card transaction file
+298,100,299,49,2025-02-19,2025-01-21,365.22,INR,Purchase,Online,SUCCESS,,298,2025-11,2025-03-01,paid,135.76,1217.54,N,incremental autoloader credit card transaction file
+299,101,300,50,2025/02/25,2025-02-22,"2,500",INR,Purchase,Online,SUCCESS,Y,299,2025-12,2025-01-02,paid,135.88,1218.27,N,incremental autoloader credit card transaction file
+299,2,1,1,2025-01-21,2025-03-23,367.0, inr , purchase , mobile app ,SUCCESS,,100 points,Jan-2025,2025-02-03,paid,136.0,wrong,N,incremental autoloader credit card transaction file
+301,3,2,2,2025-02-22,2025-01-24,367.89,INR,Purchase,Online,SUCCESS,,301,2025-02,2025-03-04,paid,136.12,1219.73,N,incremental autoloader credit card transaction file
+302,4,3,3,2025-03-23,25-02-2025,368.78,INR,Purchase,Online,SUCCESS,,302,2025-03,2025-01-05,paid,136.24,1220.46,N,incremental autoloader credit card transaction file
+303,5,4,4,2025-01-24,2025-03-26,369.67,INR,Purchase,Online,SUCCESS,,303,2025-04,2025-02-06,paid,136.36,1221.19,N,incremental autoloader credit card transaction file
+304,6,5,5,25-02-2025,wrong_date,,,Purchase,Online,SUCCESS,,304,2025-05,2025-03-07,OVERDUE,136.48,1221.92,N,incremental autoloader credit card transaction file
+305,7,6,6,2025-03-26,2025-02-28,371.45,INR,Purchase,Online,SUCCESS,,305,2025-06,2025-01-08,paid,136.6,1222.65,N,incremental autoloader credit card transaction file
+306,8,7,7,wrong_date,2025-03-01,abc,INR,REFUND,Online,,,306,2025-07,2025-02-09,paid,136.72,1223.38,N,incremental autoloader credit card transaction file
+307,9,8,8,2025-02-28,2025-01-02,373.23,INR,Purchase,Online,SUCCESS,,307,2025-08,2025-03-10,paid,136.84,1224.11,N,incremental autoloader credit card transaction file
+308,10,9,9,2025-03-01,2025-02-03,$700,USD,,Online,SUCCESS,N,308,2025-09,2025-01-11,paid,₹500,1224.84,N,incremental autoloader credit card transaction file
+309,11,10,10,2025-01-02,2025-03-04,375.01,INR,Purchase,Online,SUCCESS,,309,2025-10,,paid,137.08,1225.57,N,incremental autoloader credit card transaction file
+310,12,11,11,2025-02-03,2025-01-05,375.9, inr ,Purchase,Online,SUCCESS,,310,2025-02,2025-03-13,paid,137.2,1226.3,N,incremental autoloader credit card transaction file
+311,13,12,12,2025-03-04,2025-02-06,376.79,INR,Purchase,Online,SUCCESS,,311,2025-12,2025-01-14,paid,137.32,1227.03,N,incremental autoloader credit card transaction file
+312,14,13,13,2025-01-05,2025-03-07,"2,500",INR, purchase ,,SUCCESS,Y,abc,2025-01,2025/02/25,,137.44,"₹5,000",N,incremental autoloader credit card transaction file
+313,15,14,14,2025-02-06,2025-01-08,378.57,INR,Purchase,Online,SUCCESS,,313,2025-02,wrong_date,paid,137.56,1228.49,N,incremental autoloader credit card transaction file
+314,16,15,15,2025-03-07,2025-02-09,379.46,INR,Purchase,Online,SUCCESS,,314,2025-03,2025-01-17,paid,137.68,1229.22,N,incremental autoloader credit card transaction file
+315,17,16,16,2025-01-08,2025-03-10,380.35,INR,Purchase, mobile app ,,yes,315,2025-04,2025-02-18,paid,invalid,1229.95,N,incremental autoloader credit card transaction file
+316,18,17,17,2025-02-09,2025-01-11,381.24,INR,Purchase,Online,SUCCESS,,316,2025-05,2025-03-19,paid,137.92,1230.68,N,incremental autoloader credit card transaction file
+317,19,18,18,2025-03-10,,382.13,INR,Purchase,Online,SUCCESS,,317,2025-06,2025-01-20,paid,138.04,1231.41,N,incremental autoloader credit card transaction file
+318,20,19,19,2025-01-11,2025-03-13,383.02,INR,Purchase,Online,SUCCESS,,318,2025-07,2025-02-21,paid,138.16,1232.14,N,incremental autoloader credit card transaction file
+319,21,20,20,,2025-01-14,$700,INR,Purchase,Online,SUCCESS,,319,2025-08,2025-03-22,paid,138.28,1232.87,N,incremental autoloader credit card transaction file
+320,22,21,21,2025-03-13,2025/02/25,384.8, inr ,Purchase,POS,SUCCESS,,320,,2025-01-23,OVERDUE,138.4,1233.6,N,incremental autoloader credit card transaction file
+321,23,22,22,2025-01-14,wrong_date,385.69,INR,Purchase,Online,SUCCESS,,321,2025-10,2025-02-24,paid,138.52,1234.33,N,incremental autoloader credit card transaction file
+322,24,23,23,2025/02/25,2025-01-17,386.58,USD,Purchase,Online,SUCCESS,N,322,2025-11,2025-03-25,paid,138.64,1235.06,N,incremental autoloader credit card transaction file
+323,25,24,24,wrong_date,2025-02-18,abc,INR,Purchase,Online,SUCCESS,,323,2025-12,2025-01-26,paid,138.76,1235.79,N,incremental autoloader credit card transaction file
+324,26,25,25,2025-01-17,2025-03-19,388.36,INR, purchase ,Online,failed,,,2025-01,2025-02-27,paid,,1236.52,N,incremental autoloader credit card transaction file
+325,27,26,26,2025-02-18,2025-01-20,"2,500",INR,Purchase,Online,SUCCESS,Y,100 points,2025-02,2025-03-28,paid,139.0,wrong,N,incremental autoloader credit card transaction file
+326,28,27,27,2025-03-19,2025-02-21,390.14,INR,Purchase,Online,SUCCESS,,326,2025-03,2025-01-01,paid,139.12,1237.98,N,incremental autoloader credit card transaction file
+327,29,28,28,2025-01-20,2025-03-22,391.03,INR,Purchase,Online,SUCCESS,,327,2025-04,2025-02-02,paid,139.24,1238.71,N,incremental autoloader credit card transaction file
+328,30,29,29,2025-02-21,2025-01-23,391.92,INR,Purchase,Online,SUCCESS,,328,2025-05,2025-03-03,,139.36,1239.44,N,incremental autoloader credit card transaction file
+329,31,30,30,2025-03-22,2025-02-24,392.81,INR,Purchase,Online,SUCCESS,,329,2025-06,2025-01-04,paid,139.48,1240.17,N,incremental autoloader credit card transaction file
+330,32,31,31,2025-01-23,2025-03-25,$700, inr ,, mobile app ,SUCCESS,,330,Jan-2025,wrong_date,paid,139.6,1240.9,N,incremental autoloader credit card transaction file
+331,33,32,32,2025-02-24,2025-01-26,394.59,INR,Purchase,Online,SUCCESS,,331,2025-08,2025-03-06,paid,139.72,1241.63,N,incremental autoloader credit card transaction file
+332,34,33,33,2025-03-25,2025-02-27,395.48,INR,Purchase,Online,SUCCESS,,332,2025-09,25-02-2025,paid,139.84,1242.36,N,incremental autoloader credit card transaction file
+333,35,34,34,2025-01-26,2025-03-28,396.37,INR,Purchase,Online,,,333,2025-10,2025-02-08,paid,139.96,1243.09,N,incremental autoloader credit card transaction file
+334,36,35,35,2025-02-27,2025-01-01,397.26,INR,Purchase,Online,SUCCESS,,334,2025-11,2025-03-09,paid,140.08,1243.82,N,incremental autoloader credit card transaction file
+335,37,36,36,2025-03-28,2025-02-02,398.15,INR,Purchase,Online,SUCCESS,,335,2025-12,2025/02/25,paid,140.2,1244.55,N,incremental autoloader credit card transaction file
+336,38,37,37,2025-01-01,2025-03-03,399.04,USD, purchase ,,SUCCESS,N,336,2025-01,2025-02-11,OVERDUE,₹500,"₹5,000",N,incremental autoloader credit card transaction file
+337,39,38,38,2025-02-02,2025-01-04,399.93,INR,Purchase,Online,SUCCESS,,337,2025-02,2025-03-12,paid,140.44,1246.01,N,incremental autoloader credit card transaction file
+338,40,39,39,2025-03-03,wrong_date,"2,500",INR,Purchase,Online,SUCCESS,Y,abc,2025-03,,paid,140.56,,N,incremental autoloader credit card transaction file
+339,41,40,40,2025-01-04,2025-03-06,401.71,INR,Purchase,Online,SUCCESS,,339,2025-04,2025-02-14,paid,140.68,1247.47,N,incremental autoloader credit card transaction file
+340,42,41,41,wrong_date,25-02-2025,abc, inr ,Purchase,POS,SUCCESS,,340,2025-05,2025-03-15,paid,140.8,1248.2,N,incremental autoloader credit card transaction file
+341,43,42,42,2025-03-06,2025-02-08,$700,INR,Purchase,Online,SUCCESS,,341,2025-02,2025-01-16,paid,140.92,1248.93,N,incremental autoloader credit card transaction file
+342,44,43,43,25-02-2025,2025-03-09,,INR,REFUND,Online,,,342,2025-07,2025-02-17,paid,141.04,1249.66,N,incremental autoloader credit card transaction file
+343,45,44,44,2025-02-08,2025/02/25,405.27,INR,Purchase,Online,SUCCESS,,343,2025-08,2025-03-18,paid,141.16,1250.39,N,incremental autoloader credit card transaction file
+344,46,45,45,2025-03-09,2025-02-11,406.16,INR,Purchase,Online,SUCCESS,,344,2025-09,2025-01-19,,141.28,1251.12,N,incremental autoloader credit card transaction file
+345,47,46,46,2025/02/25,2025-03-12,407.05,INR,Purchase, mobile app ,SUCCESS,,345,2025-10,2025-02-20,paid,141.4,1251.85,N,incremental autoloader credit card transaction file
+346,48,47,47,2025-02-11,,407.94,INR,Purchase,Online,SUCCESS,,346,2025-11,2025-03-21,paid,141.52,1252.58,N,incremental autoloader credit card transaction file
+347,49,48,48,2025-03-12,2025-02-14,408.83,INR,Purchase,Online,SUCCESS,,347,2025-12,wrong_date,paid,141.64,1253.31,N,incremental autoloader credit card transaction file
+348,50,49,49,,2025-03-15,409.72,INR, purchase ,Online,SUCCESS,,348,2025-01,2025-02-23,paid,141.76,1254.04,N,incremental autoloader credit card transaction file
+349,51,50,50,2025-02-14,2025-01-16,410.61,INR,Purchase,Online,SUCCESS,,349,2025-02,2025-03-24,paid,141.88,1254.77,N,incremental autoloader credit card transaction file
+350,52,51,1,2025-03-15,2025-02-17,411.5, inr ,Purchase,Online,SUCCESS,N,100 points,2025-03,2025-01-25,paid,invalid,wrong,N,incremental autoloader credit card transaction file
+351,53,52,2,2025-01-16,2025-03-18,"2,500",INR,Purchase,Online,failed,Y,,2025-04,25-02-2025,paid,142.12,1256.23,N,incremental autoloader credit card transaction file
+352,54,53,3,2025-02-17,2025-01-19,$700,,,Online,SUCCESS,,352,,2025-03-27,OVERDUE,142.24,1256.96,N,incremental autoloader credit card transaction file
+353,55,54,4,2025-03-18,2025-02-20,414.17,INR,Purchase,Online,SUCCESS,,353,2025-06,2025-01-28,paid,142.36,1257.69,N,incremental autoloader credit card transaction file
+354,56,55,5,2025-01-19,2025-03-21,415.06,INR,Purchase,Online,SUCCESS,,354,2025-07,2025-02-01,paid,142.48,1258.42,N,incremental autoloader credit card transaction file
+355,57,56,6,2025-02-20,wrong_date,415.95,INR,Purchase,Online,SUCCESS,,355,2025-08,2025-03-02,paid,142.6,1259.15,N,incremental autoloader credit card transaction file
+356,58,57,7,2025-03-21,2025-02-23,416.84,INR,Purchase,Online,SUCCESS,,356,2025-09,2025-01-03,paid,142.72,1259.88,N,incremental autoloader credit card transaction file
+357,59,58,8,wrong_date,2025-03-24,abc,INR,Purchase,Online,SUCCESS,yes,357,2025-10,2025-02-04,paid,142.84,1260.61,N,incremental autoloader credit card transaction file
+358,60,59,9,2025-02-23,2025-01-25,418.62,INR,Purchase,Online,SUCCESS,,358,2025-11,2025/02/25,paid,142.96,1261.34,N,incremental autoloader credit card transaction file
+359,61,60,10,2025-03-24,25-02-2025,419.51,INR,Purchase,Online,SUCCESS,,359,2025-12,2025-01-06,paid,143.08,1262.07,N,incremental autoloader credit card transaction file
+360,62,61,11,2025-01-25,2025-03-27,420.4, inr , purchase , mobile app ,,,360,Jan-2025,2025-02-07,,,"₹5,000",N,incremental autoloader credit card transaction file
+361,63,62,12,25-02-2025,2025-01-28,,INR,Purchase,Online,SUCCESS,,361,2025-02,2025-03-08,paid,143.32,1263.53,N,incremental autoloader credit card transaction file
+362,64,63,13,2025-03-27,2025-02-01,422.18,INR,Purchase,Online,SUCCESS,,362,2025-03,2025-01-09,paid,143.44,1264.26,N,incremental autoloader credit card transaction file
+363,65,64,14,2025-01-28,2025-03-02,$700,INR,Purchase,Online,SUCCESS,,363,2025-04,2025-02-10,paid,143.56,1264.99,N,incremental autoloader credit card transaction file
+364,66,65,15,2025-02-01,2025-01-03,"2,500",USD,Purchase,Online,SUCCESS,Y,abc,2025-05,wrong_date,paid,₹500,,N,incremental autoloader credit card transaction file
+365,67,66,16,2025-03-02,2025-02-04,424.85,INR,Purchase,Online,SUCCESS,,365,2025-06,2025-01-12,paid,143.8,1266.45,N,incremental autoloader credit card transaction file
+366,68,67,17,2025-01-03,2025/02/25,425.74,INR,Purchase,Online,SUCCESS,,366,2025-07,2025-02-13,paid,143.92,1267.18,N,incremental autoloader credit card transaction file
+367,69,68,18,2025-02-04,2025-01-06,426.63,INR,Purchase,Online,SUCCESS,,367,2025-08,,paid,144.04,1267.91,N,incremental autoloader credit card transaction file
+368,70,69,19,2025/02/25,2025-02-07,427.52,,Purchase,Online,SUCCESS,,368,2025-09,2025-01-15,OVERDUE,144.16,1268.64,N,incremental autoloader credit card transaction file
+369,71,70,20,2025-01-06,2025-03-08,428.41,INR,Purchase,Online,,,369,2025-10,2025-02-16,paid,144.28,1269.37,N,incremental autoloader credit card transaction file
+370,72,71,21,2025-02-07,2025-01-09,429.3, inr ,Purchase,Online,SUCCESS,,370,2025-11,25-02-2025,paid,144.4,1270.1,N,incremental autoloader credit card transaction file
+371,73,72,22,2025-03-08,2025-02-10,430.19,INR,Purchase,Online,SUCCESS,,371,2025-12,2025-01-18,paid,144.52,1270.83,N,incremental autoloader credit card transaction file
+372,74,73,23,2025-01-09,wrong_date,431.08,INR, purchase ,Online,SUCCESS,,372,2025-02,2025-02-19,paid,144.64,1271.56,N,incremental autoloader credit card transaction file
+373,75,74,24,2025-02-10,2025-01-12,431.97,INR,Purchase,Online,SUCCESS,,373,2025-02,2025-03-20,paid,144.76,1272.29,N,incremental autoloader credit card transaction file
+374,76,75,25,wrong_date,2025-02-13,$700,INR,,Online,SUCCESS,,374,2025-03,2025-01-21,paid,144.88,1273.02,N,incremental autoloader credit card transaction file
+375,77,76,26,2025-01-12,,433.75,INR,Purchase, mobile app ,SUCCESS,,100 points,2025-04,2025-02-22,paid,145.0,wrong,N,incremental autoloader credit card transaction file
+376,78,77,27,2025-02-13,2025-01-15,434.64,INR,Purchase,Online,SUCCESS,,376,2025-05,2025-03-23,,145.12,1274.48,N,incremental autoloader credit card transaction file
+377,79,78,28,,2025-02-16,"2,500",INR,Purchase,Online,SUCCESS,Y,377,2025-06,2025-01-24,paid,145.24,1275.21,N,incremental autoloader credit card transaction file
+378,80,79,29,2025-01-15,25-02-2025,436.42,USD,REFUND,Online,failed,N,,2025-07,2025-02-25,paid,145.36,1275.94,N,incremental autoloader credit card transaction file
+379,81,80,30,2025-02-16,2025-01-18,437.31,INR,Purchase,Online,SUCCESS,,379,2025-08,2025-03-26,paid,145.48,1276.67,N,incremental autoloader credit card transaction file
+380,82,81,31,25-02-2025,2025-02-19,, inr ,Purchase,POS,SUCCESS,,380,2025-09,2025-01-27,paid,145.6,1277.4,N,incremental autoloader credit card transaction file
+381,83,82,32,2025-01-18,2025-03-20,439.09,INR,Purchase,Online,SUCCESS,,381,2025-10,wrong_date,paid,145.72,1278.13,N,incremental autoloader credit card transaction file
+382,84,83,33,2025-02-19,2025-01-21,439.98,INR,Purchase,Online,SUCCESS,,382,2025-11,2025-03-01,paid,145.84,1278.86,N,incremental autoloader credit card transaction file
+383,85,84,34,2025-03-20,2025-02-22,440.87,INR,Purchase,Online,SUCCESS,,383,2025-12,2025-01-02,paid,145.96,1279.59,N,incremental autoloader credit card transaction file
+384,86,85,35,2025-01-21,2025-03-23,441.76,, purchase ,,SUCCESS,,384,,2025-02-03,OVERDUE,146.08,"₹5,000",N,incremental autoloader credit card transaction file
+385,87,86,36,2025-02-22,2025-01-24,$700,INR,Purchase,Online,SUCCESS,,385,2025-02,2025-03-04,paid,invalid,1281.05,N,incremental autoloader credit card transaction file
+386,88,87,37,2025-03-23,2025-02-25,443.54,INR,Purchase,Online,SUCCESS,,386,2025-03,2025-01-05,paid,146.32,1281.78,N,incremental autoloader credit card transaction file
+387,89,88,38,2025-01-24,2025-03-26,444.43,INR,Purchase,Online,,,387,2025-04,2025-02-06,paid,146.44,1282.51,N,incremental autoloader credit card transaction file
+388,90,89,39,2025-02-25,2025-01-27,445.32,INR,Purchase,Online,SUCCESS,,388,2025-05,2025-03-07,paid,146.56,1283.24,N,incremental autoloader credit card transaction file
+389,91,90,40,2025-03-26,wrong_date,446.21,INR,Purchase,Online,SUCCESS,,389,2025-06,25-02-2025,paid,146.68,1283.97,N,incremental autoloader credit card transaction file
+390,92,91,41,2025-01-27,2025-03-01,"2,500", inr ,Purchase, mobile app ,SUCCESS,Y,abc,Jan-2025,2025-02-09,paid,146.8,,N,incremental autoloader credit card transaction file
+391,93,92,42,wrong_date,2025-01-02,abc,INR,Purchase,Online,SUCCESS,,391,2025-08,2025-03-10,paid,146.92,1285.43,N,incremental autoloader credit card transaction file
+392,94,93,43,2025-03-01,2025-02-03,448.88,USD,Purchase,Online,SUCCESS,N,392,2025-09,2025-01-11,,₹500,1286.16,N,incremental autoloader credit card transaction file
+393,95,94,44,2025-01-02,2025-03-04,449.77,INR,Purchase,Online,SUCCESS,,393,2025-10,2025-02-12,paid,147.16,1286.89,N,incremental autoloader credit card transaction file
+394,96,95,45,2025-02-03,2025-01-05,450.66,INR,Purchase,Online,SUCCESS,,394,2025-11,2025-03-13,paid,147.28,1287.62,N,incremental autoloader credit card transaction file
+395,97,96,46,2025-03-04,2025-02-06,451.55,INR,Purchase,Online,SUCCESS,,395,2025-12,2025-01-14,paid,147.4,1288.35,N,incremental autoloader credit card transaction file
+396,98,97,47,2025-01-05,2025-03-07,$700,INR, purchase ,Online,,,396,2025-01,,paid,,1289.08,N,incremental autoloader credit card transaction file
+397,99,98,48,2025-02-06,25-02-2025,453.33,INR,Purchase,Online,SUCCESS,,397,2025-02,2025-03-16,paid,147.64,1289.81,N,incremental autoloader credit card transaction file
+398,100,99,49,2025-03-07,2025-02-09,454.22,INR,Purchase,Online,SUCCESS,,398,2025-03,wrong_date,paid,147.76,1290.54,N,incremental autoloader credit card transaction file
+399,101,100,50,25-02-2025,2025-03-10,,INR,Purchase,Online,SUCCESS,yes,399,2025-04,2025-02-18,paid,147.88,1291.27,N,incremental autoloader credit card transaction file
+399,102,101,1,2025-02-09,2025-01-11,456.0, inr ,Purchase,POS,SUCCESS,,100 points,2025-05,2025-03-19,OVERDUE,148.0,wrong,N,incremental autoloader credit card transaction file
